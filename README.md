@@ -1,0 +1,1 @@
+Проект создан для ознакомления с Dependency Injection в Spring.
